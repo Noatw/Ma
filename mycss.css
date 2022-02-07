@@ -1,0 +1,11 @@
+select {
+background: transparent linear-gradient(0deg, #333362 0%, #33729F 100%) 0% 0% no-repeat padding-box;
+opacity: 1;
+border-radius: 24px;
+color: "black";
+border-background: #D7D7D7 0% 0% no-repeat padding-box;
+font: "Assistant";
+font-size: 20pt;
+font-color: "black";
+text-Align = "center";
+}
